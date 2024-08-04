@@ -1,0 +1,122 @@
+[
+    {
+        "question": "While traversing the mystical realm, Sarah and Tom encountered a bridge guarded by a problem (-3) + 7 = 7 + (-3), which property is being illustrated?",
+        "options": ["Associative Property", "Commutative Property", "Distributive Property", "Identity Property"],
+        "correct": 1,
+        "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "While exploring a hidden chamber, Sarah and Tom encountered a puzzle that stated: By which property (6 + 2) + 4 = 6 + (2 + 4) are equal?",
+        "options": ["Commutative property", "Associative property", "Additive inverse", "None of the above"],
+        "correct": 1,
+        "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "Seeking clues to unlock the secrets of addition properties, Sarah and Tom stumbled upon a wise owl who posed a question: 'What is the result of (-901) + (-401)?'",
+        "options": ["-1302", "-500", "500", "1302"],
+        "correct": 0,
+        "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "In their journey, Sarah and Tom found themselves at a crossroads where a sign read: Are (-51) + (-12) and (-12) + (-51) equal?",
+        "options": ["Yes, they are equal", "No, they are not equal", "They might be equal", "It cannot be determined"],
+        "correct": 0,
+        "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "As they ventured further, they encountered a chamber with a riddle inscribed on the walls: 'The sum of -49 and additive inverse of -6, subtracted from 100, equals?'",
+        "options": ["57", "143", "-143", "-45"],
+        "correct": 1,
+        "img": "./assests/images/5.jpg"
+    },
+    {
+        "question": "In a room illuminated by mysterious crystals, they found an equation etched onto a tablet: '(-73) - (-40) + (-17) = ?' Help them solve this equation.",
+        "options": ["-17", "17", "50", "-50"],
+        "correct": 3,
+        "img": "./assests/images/6.jpg"
+    },
+    {
+        "question": "Continuing deeper into the ruins, they faced a puzzle carved into the stone floor: 'Which additive inverse will come in place of _____ in the given equation to make it 0? _____ + 100 = 0'",
+        "options": ["100", "0", "-100", "None of the above"],
+        "correct": 2,
+        "img": "./assests/images/7.jpg"
+    },
+    {
+        "question": "As they journeyed further, Sarah and Tom found an ancient scroll containing an equation: a + (b + c) = (a + b) + c. Which property of addition does this equation illustrate?",
+        "options": ["The commutative property", "The associative property", "The closure property", "The identity property"],
+        "correct": 1,
+        "img": "./assests/images/8.jpg"
+    },
+    {
+        "question": "Tom encountered a riddle that required using the additive identity to solve a simple equation. If he starts with the number -327, what should he add to it to maintain the same value?",
+        "options": ["-327", "327", "0", "None of the above"],
+        "correct": 2,
+        "img": "./assests/images/9.jpg"
+    },
+    {
+        "question": "Sarah needs to demonstrate the associative property of addition using the numbers 4, 5, and 6. Which of the following correctly uses this property?",
+        "options": ["(4 + 5) + 6 = 4 + (5 x 6)", "(4 + 5) + 6 = 4 + (5 + 6)", "(4 x 5) + 6 = 4 + (5 + 6)", "(4 + 5) + 6 = 4 x (5 + 6)"],
+        "correct": 1,
+        "img": "./assests/images/10.jpg"
+    },
+    {
+        "question": "Mathius challenged Sarah with the equation 1257 + (-834) + 652. What is the correct solution?",
+        "options": ["-1075", "2075", "1075", "-2075"],
+        "correct": 2,
+        "img": "./assests/images/11.jpg"
+    },
+    {
+        "question": "To open a magical gate, Sarah needed to use the property of subtraction involving the same number. Mathius asked, 'What is -389 - (-389)?'",
+        "options": ["778", "-778", "0", "None of the above"],
+        "correct": 2,
+        "img": "./assests/images/12.jpg"
+    },
+    {
+        "question": "While exploring, Tom encountered a puzzle asking him to identify the equation that correctly applies the commutative property to the numbers 43 and -21.",
+        "options": ["43 - 21 = -21 + 43", "43 + (-21) = (-21) + 43", "43 + (-21) = 43 - 21", "43 - (-21) = -21 - 43"],
+        "correct": 1,
+        "img": "./assests/images/13.jpg"
+    },
+    {
+        "question": "Tom discovered a mysterious amulet with a negative energy value of -8,750. If Sarah adds 4,980 to the amulet's energy, what will be its final energy value?",
+        "options": ["13,730", "-13,730", "-3,770", "3,770"],
+        "correct": 2,
+        "img": "./assests/images/14.jpg"
+    },
+    {
+        "question": "Sarah stumbles upon the equation 907 + (-302) - 502. Tom insists he can solve it quickly and her. Can you figure out the answer to help Tom do the calculations quickly?",
+        "options": ["103", "-707", "-103", "707"],
+        "correct": 0,
+        "img": "./assests/images/15.jpg"
+    },
+    {
+        "question": "To unlock the first door in the realm, Sarah must find the additive inverse of the enchanted number 450. What is the additive inverse?",
+        "options": ["-450", "450", "0", "900"],
+        "correct": 0,
+        "img": "./assests/images/16.jpg"
+    },
+    {
+        "question": "Sarah found a treasure chest guarded by a magical lock. The inscription read: 'To open, find the additive inverse of -83 and then add -98 to it.' What number should she enter into the lock to open it?",
+        "options": ["15", "181", "-181", "-15"],
+        "correct": 3,
+        "img": "./assests/images/17.jpg"
+    },
+    {
+        "question": "Tom and Sarah are trying to solve the equation (789) + (-527) + 432. Help them solve it:",
+        "options": ["724", "694", "-724", "-694"],
+        "correct": 1,
+        "img": "./assests/images/18.jpg"
+    },
+    {
+        "question": "Mathius told Sarah and Tom that to find their way back, they must use the commutative property of addition. Which of the following equations correctly demonstrates this property with the numbers 12 and 25?",
+        "options": ["12 + 25 = 25 + 12", "12 + 25 = 12 - 25", "12 x 25 = 25 x 12", "12 + 25 = 25 - 12"],
+        "correct": 0,
+        "img": "./assests/images/19.jpg"
+    },
+    {
+        "question": "Finally, at the heart of the ruins, they faced a daunting challenge to solve this equation: 820 - 420 - (-208)",
+        "options": ["212", "680", "-680", "-212"],
+        "correct": 1,
+        "img": "./assests/images/20.jpg"
+    }
+]
